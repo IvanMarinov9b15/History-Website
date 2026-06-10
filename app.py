@@ -122,8 +122,8 @@ elif page == "👥 За Авторите":
     
     col1, col2 = st.columns(2)
     with col1:
-        st.success("### 👤 Ученик № 5")
-        st.write("Бойко Кехайов")
+        st.success("### 👤 Бойко Кехайов")
+        st.write("Ученик № 5")
     with col2:
-        st.success("### 👤 Ученик № 15")
-        st.write("Иван Маринов.")
+        st.success("### 👤 Иван Маринов")
+        st.write("Ученик № 15")
